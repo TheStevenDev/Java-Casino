@@ -106,6 +106,8 @@ public class CaricamentoCavalli extends JFrame {
                     if(cavalloScelto.getStars()==4) guadagno = puntata*3;
                     if(cavalloScelto.getStars()==3) guadagno = puntata*5;
                     if(cavalloScelto.getStars()==2) guadagno = puntata*8;
+
+if(cavalloScelto.getStars()==1) guadagno = puntata*10;
                     
                 }
                 else{
