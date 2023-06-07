@@ -17,7 +17,7 @@ public class HomePage extends JFrame implements ActionListener, MouseListener {
 
     //Frame e label del titolo
     private Color buttonsColor = new Color(87,87,87);
-    private ImageIcon background = new ImageIcon("src/backgrounds/homePage.png");
+    private ImageIcon background = new ImageIcon("backgrounds/homePage.png");
     private Color buttonsColorHover = new Color(120,120,120);
     private JLabel mainLabel = new JLabel();
     private JLabel titleLabel = new JLabel("CASINO' GALAXY");
