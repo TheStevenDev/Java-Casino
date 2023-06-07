@@ -17,7 +17,7 @@ public class Results extends JFrame implements ActionListener, MouseListener {
     private String name;
 
     private Color buttonsColor = new Color(87,87,87);
-    private ImageIcon background = new ImageIcon("src/backgrounds/results.png");
+    private ImageIcon background = new ImageIcon("backgrounds/results.png");
     private Color buttonsColorHover = new Color(120,120,120);
 
     //Label e bottoni
