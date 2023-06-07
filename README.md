@@ -6,7 +6,6 @@
   <h1>Casino Galaxy - Java Project</h1>
   <p>By StevenDev</p>
   <h2>Description</h2>
-  <p>REMEMBER: delete in all files paths "src/"</p>
   <p>The Casino Galaxy is a Java project that simulates a virtual casino. The project includes three main games: Roulette, Blackjack, and Horse Racing. The horses for the Horse Racing game are randomly selected from a text file.</p>
   <h2>Games</h2>
   <ul>
