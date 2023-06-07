@@ -13,12 +13,12 @@ public class CorsaCavalli extends JFrame implements ActionListener, MouseListene
     private String name;
     private int saldo;
     private int puntata;
-    private File file = new File("src/files/cavalli.txt");
+    private File file = new File("files/cavalli.txt");
     Cavallo[] cavalli = new Cavallo[217];
 
     // Label e font pricipali
     private Color buttonsColor = new Color(87, 87, 87);
-    private ImageIcon background = new ImageIcon("src/backgrounds/corsaCavalli.png");
+    private ImageIcon background = new ImageIcon("backgrounds/corsaCavalli.png");
     private Color buttonsColorHover = new Color(120, 120, 120);
     private JLabel puntataLabel = new JLabel();
     private JLabel mainLabel = new JLabel();
