@@ -19,7 +19,7 @@ public class Blackjack extends JFrame implements ActionListener, MouseListener {
 
     //Font e sfondo
     private Color buttonsColor = new Color(87,87,87);
-    private ImageIcon background = new ImageIcon("src/backgrounds/blackjack.png");
+    private ImageIcon background = new ImageIcon("backgrounds/blackjack.png");
     private Color buttonsColorHover = new Color(120,120,120);
     private JLabel mainLabel = new JLabel();
     private Font titleFont = new Font("LEMON MILK",Font.BOLD,50);
