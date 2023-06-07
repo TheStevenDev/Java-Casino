@@ -14,7 +14,7 @@ public class LoadingPage extends JFrame implements ActionListener, MouseListener
     private int saldo;
     //----//
     private Color buttonsColor = new Color(87,87,87);
-    private ImageIcon background = new ImageIcon("src/backgrounds/loadingPage.png");
+    private ImageIcon background = new ImageIcon("backgrounds/loadingPage.png");
     private Color buttonsColorHover = new Color(120,120,120);
     private JLabel mainLabel = new JLabel();
 
