@@ -11,7 +11,7 @@ public class GiraRoulette extends JFrame {
     private JLabel titleLabel = new JLabel();
     private JLabel percentageLabel = new JLabel();
     private Font titleFont = new Font("LEMON MILK", Font.BOLD, 50);
-    private ImageIcon background = new ImageIcon("src/backgrounds/rouletteLoading.png");
+    private ImageIcon background = new ImageIcon("backgrounds/rouletteLoading.png");
     private Font buttonsFont = new Font("LEMON MILK", Font.BOLD, 20);
     private JProgressBar bar = new JProgressBar(0, 100);
 
